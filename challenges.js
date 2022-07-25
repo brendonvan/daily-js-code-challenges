@@ -61,6 +61,11 @@ addTwoNumbers('Hello', 5) //=> NaN
 -----------------------------------------------------------------*/
 // Your solution for 02-addTwoNumbers here:
 
+function addTwoNumbers(num1, num2) {
+  return num1 + num2;
+}
+
+consolelog(addTwoNumbers(5,10));
 
 
 
